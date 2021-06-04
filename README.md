@@ -1,3 +1,3 @@
-# Prgms-Assignmnts
+## Playing with Ai and ML 
 
-all the projects on which i worked and always wanted to work will appear here
+All the projects on which i worked and always wanted to work will appear here
